@@ -5,7 +5,7 @@
 + week01: [冒泡排序](https://github.com/xiao2shiqi/ARTS/blob/master/week1/Algorithm.md)
 + week02: [标记位的冒泡排序](https://github.com/xiao2shiqi/ARTS/blob/master/week2/Algorithm.md)
 + week03: [桶排序](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Algorithm.md)
-+ week04: [两数之和](https://github.com/xiao2shiqi/ARTS/tree/master/week4)
++ week04: [两数之和](https://github.com/xiao2shiqi/ARTS/tree/master/week4/Algorithm.md)
 
 ## Review
 阅读并点评一篇英文技术文章
