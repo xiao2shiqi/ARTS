@@ -20,9 +20,9 @@ Introduction：Read english articles
 
 ## Tip
 Introduction: Sharing tips at work
-+ week01: [mysql:使用int类型记录时间，在sql运算无法利用索引](https://github.com/xiao2shiqi/ARTS/blob/master/week1/Tip.md)
++ week01: [MySQL高效存储时间的技巧](https://github.com/xiao2shiqi/ARTS/blob/master/week1/Tip.md)
 + week02: [操作系统路径命名注意事项](https://github.com/xiao2shiqi/ARTS/blob/master/week2/Tip.md)
-+ week03: [使用Java异常注意事项](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Tip.md)
++ week03: [Java异常注意事项](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Tip.md)
 + week04: [程序员在工作中的注意事项](https://github.com/xiao2shiqi/ARTS/blob/master/week4/Tip.md)
 + week05: [SQL优化技巧](https://github.com/xiao2shiqi/ARTS/blob/master/week5/Tip.md)
 + week06: [Why code review](https://github.com/xiao2shiqi/ARTS/blob/master/week6/Tip.md)
