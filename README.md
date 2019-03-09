@@ -7,6 +7,7 @@ Introduction: Complete an algorithm question
 + week03: [Bucket sort](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Algorithm.md)
 + week04: [TwoSum](https://github.com/xiao2shiqi/ARTS/tree/master/week4/Algorithm.md)
 + week05: [RomanToInteger](https://github.com/xiao2shiqi/ARTS/tree/master/week5/Algorithm.md)
++ week06: [Valid Parentheses](https://github.com/xiao2shiqi/ARTS/tree/master/week6/Algorithm.md)
 
 ## Review
 Introduction：Read english articles
@@ -15,6 +16,7 @@ Introduction：Read english articles
 + week03: [Implementing binary tree using golang](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Review.md)
 + week04: [Docker Orientaion and setup](https://github.com/xiao2shiqi/ARTS/blob/master/week4/Review.md)
 + week05: [Docker Containers](https://github.com/xiao2shiqi/ARTS/blob/master/week5/Review.md)
++ week06: [Docker Service](https://github.com/xiao2shiqi/ARTS/blob/master/week6/Review.md)
 
 ## Tip
 Introduction: Sharing tips at work
@@ -23,6 +25,7 @@ Introduction: Sharing tips at work
 + week03: [使用Java异常注意事项](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Tip.md)
 + week04: [程序员在工作中的注意事项](https://github.com/xiao2shiqi/ARTS/blob/master/week4/Tip.md)
 + week05: [SQL优化技巧](https://github.com/xiao2shiqi/ARTS/blob/master/week5/Tip.md)
++ week06: [Why code review](https://github.com/xiao2shiqi/ARTS/blob/master/week6/Tip.md)
 
 ## Share
 Introduction: Share your thoughts
@@ -31,3 +34,4 @@ Introduction: Share your thoughts
 + week03: [AI和大数据对世界政治体制的影响](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Share.md) 
 + week04: [卡尔萨根对未来的幻想](https://github.com/xiao2shiqi/ARTS/blob/master/week4/Share.md)
 + week05: [不要迷信转管理](https://github.com/xiao2shiqi/ARTS/blob/master/week5/Share.md)
++ week06: [关于看书方法的一点理解](https://github.com/xiao2shiqi/ARTS/blob/master/week6/Share.md)
