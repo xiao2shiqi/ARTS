@@ -1,17 +1,17 @@
-﻿# ARTS 
+# ARTS 
 
 ## Algorithm
 完成一个算法题
-+ week01: [冒泡排序](https://github.com/xiao2shiqi/ARTS/blob/master/week1/Algorithm.md)
-+ week02: [标记位的冒泡排序](https://github.com/xiao2shiqi/ARTS/blob/master/week2/Algorithm.md)
-+ week03: [桶排序](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Algorithm.md)
-+ week04: [两数之和](https://github.com/xiao2shiqi/ARTS/tree/master/week4/Algorithm.md)
++ week01: [Bubble Sort](https://github.com/xiao2shiqi/ARTS/blob/master/week1/Algorithm.md)
++ week02: [Mark Bubble Sort](https://github.com/xiao2shiqi/ARTS/blob/master/week2/Algorithm.md)
++ week03: [Bucket sort](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Algorithm.md)
++ week04: [TwoSum](https://github.com/xiao2shiqi/ARTS/tree/master/week4/Algorithm.md)
 
 ## Review
 阅读并点评一篇英文技术文章
-+ week01: [基于Lambda操作数据库](https://github.com/xiao2shiqi/ARTS/blob/master/week1/Review.md)
-+ week02: [为什么用Java做后端语言](https://github.com/xiao2shiqi/ARTS/blob/master/week2/Review.md)
-+ week03: [使用GO语言实现二叉树](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Review.md)
++ week01: [Operating the database based on Lambda](https://github.com/xiao2shiqi/ARTS/blob/master/week1/Review.md)
++ week02: [Why use Java as the backend language?](https://github.com/xiao2shiqi/ARTS/blob/master/week2/Review.md)
++ week03: [Implementing binary tree using golang](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Review.md)
 + week04: [Docker Orientaion and setup](https://github.com/xiao2shiqi/ARTS/blob/master/week4/Review.md)
 
 ## Tip
