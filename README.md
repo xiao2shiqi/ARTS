@@ -33,5 +33,5 @@ Introduction: Share your thoughts
 + week02: [内存泄露和内存溢出的区别](https://github.com/xiao2shiqi/ARTS/blob/master/week2/Share.md) 
 + week03: [AI和大数据对世界政治体制的影响](https://github.com/xiao2shiqi/ARTS/blob/master/week3/Share.md) 
 + week04: [卡尔萨根对未来的幻想](https://github.com/xiao2shiqi/ARTS/blob/master/week4/Share.md)
-+ week05: [不要迷信转管理](https://github.com/xiao2shiqi/ARTS/blob/master/week5/Share.md)
++ week05: [关于技术人员的长期发展](https://github.com/xiao2shiqi/ARTS/blob/master/week5/Share.md)
 + week06: [关于看书方法的一点理解](https://github.com/xiao2shiqi/ARTS/blob/master/week6/Share.md)
