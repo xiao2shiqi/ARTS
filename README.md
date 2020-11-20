@@ -8,7 +8,7 @@ My practice and thinking notes...
 
 [如何有效的践行 ARTS](https://xbc.me/arts/#什么是arts)
 
-PS：ARTS 未必每周都会完整做完，但是只要有补充我都会记录在这里，所以这里没有所用 week 做单位了 😃
+PS：ARTS 尽量争取每周更新一次，并未能交齐，但是只要有补充我都会记录在这里 😃
 
 ## Algorithm
 
