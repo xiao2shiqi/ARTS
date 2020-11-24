@@ -46,6 +46,8 @@ Introduction: Sharing tips at work
 5. [2条 SQL 性能优化技巧](https://github.com/xiao2shiqi/ARTS/blob/master/tip/2条%20SQL%20优化技巧.md)
 6. [几条 code review 的技巧](https://github.com/xiao2shiqi/ARTS/blob/master/tip/code_review%20的注意事项.md)
 7. [git hook 集成 阿里巴巴 p3c 实现自动代码检查](https://github.com/xiao2shiqi/ARTS/blob/master/tip/git%20hook%20集成%20alibaba%20p3c%20实现自动代码检查.md)
+8. [解决 Chrome 网页翻译无法使用的问题](https://github.com/xiao2shiqi/ARTS/blob/master/tip/解决%20Chrome%20网页翻译无法使用问题.md)
+9. [docker 设置/取消容器自启动](https://github.com/xiao2shiqi/ARTS/blob/master/tip/docker%20设置容器自启动.md)
 
 ## Share
 
