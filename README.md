@@ -61,3 +61,4 @@ Introduction: Share your thoughts
 4. [卡尔萨根对未来的幻想](https://github.com/xiao2shiqi/ARTS/blob/master/share/看完流浪地球的感触.md)
 5. [关于技术人员的长期发展](https://github.com/xiao2shiqi/ARTS/blob/master/share/程序员的长期发展道路.md)
 6. [关于看书方法的一点理解](https://github.com/xiao2shiqi/ARTS/blob/master/share/对书的分类.md)
+7. [ruby 多线程的使用](https://github.com/xiao2shiqi/ARTS/blob/master/share/ruby%20多线程的使用.md)
