@@ -54,7 +54,7 @@ pre-commit 预检查脚本：
 ```shell
 REJECT=0
 
-java -cp .git/hooks/p3c-pmd-2.1.1-jar-with-dependencies.jar net.sourceforge.pmd.PMD -d {扫描的代码路径} -R rulesets/java/ali-comment.xml
+java -cp .git/hooks/p3c-pmd-2.1.1-jar-with-dependencies.jar net.sourceforge.pmd.PMD -d {扫描的代码路径} -R rulesets/java/ali-comment.xml,rulesets/java/ali-concurrent.xml,rulesets/java/ali-constant.xml,rulesets/java/ali-exception.xml,rulesets/java/ali-flowcontrol.xml,rulesets/java/ali-naming.xml,rulesets/java/ali-oop.xml,rulesets/java/ali-orm.xml,rulesets/java/ali-other.xml,rulesets/java/ali-set.xml 2>/dev/null
 REJECT=$?
 echo $REJECT
 exit $REJECT
