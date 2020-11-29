@@ -18,7 +18,7 @@ Introduction: Complete an algorithm question
 
 **please visit my algorithm project link ：**
 
-* [solved by java](https://github.com/xiao2shiqi/leetcode)
+* [my leetcode project](https://github.com/xiao2shiqi/leetcode)
 
 ## Review
 
