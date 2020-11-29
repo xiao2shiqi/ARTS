@@ -14,11 +14,11 @@ PS：ARTS 尽量争取每周更新一次，并未能交齐，但是只要有补�
 
 Introduction: Complete an algorithm question
 
-使用 ruby && java 完成 leetcode 的算法题
+使用 ruby && java 完成 leetcode 的算法题，点击链接访问我的算法项目：
 
 **please visit my algorithm project link ：**
-* [solved by java](https://github.com/xiao2shiqi/leetcode-java)
-* [solved by ruby](https://github.com/xiao2shiqi/leetcode-ruby)
+
+* [solved by java](https://github.com/xiao2shiqi/leetcode)
 
 ## Review
 
