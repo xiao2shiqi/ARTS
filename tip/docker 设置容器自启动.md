@@ -3,5 +3,5 @@
 关于自启动常用的命令有以下 3 条：
 
 1. 运行容器时保证容器的自重启：docker run --restart=always
-2. 设置已有容器自启动：docker update --restart=always <CONTAINER ID>
-3. 取消容器的自启动：docker update –restart=no <CONTAINER ID>
+2. 设置已有容器自启动：docker update --restart=always CONTAINER ID
+3. 取消容器的自启动：docker update –restart=no CONTAINER ID
