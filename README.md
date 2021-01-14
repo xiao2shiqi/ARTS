@@ -48,6 +48,7 @@ Introduction: Sharing tips at work
 7. [git hook 集成 阿里巴巴 p3c 实现自动代码检查](https://github.com/xiao2shiqi/ARTS/blob/master/tip/git%20hook%20集成%20alibaba%20p3c%20实现自动代码检查.md)
 8. [解决 Chrome 网页翻译无法使用的问题](https://github.com/xiao2shiqi/ARTS/blob/master/tip/解决%20Chrome%20网页翻译无法使用问题.md)
 9. [docker 设置/取消容器自启动](https://github.com/xiao2shiqi/ARTS/blob/master/tip/docker%20设置容器自启动.md)
+10. [SSH 浏览器网络代理设置](https://github.com/xiao2shiqi/ARTS/blob/master/tip/SSH%20%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86%E8%AE%BE%E7%BD%AE.md)
 
 ## Share
 
@@ -63,3 +64,4 @@ Introduction: Share your thoughts
 6. [关于看书方法的一点理解](https://github.com/xiao2shiqi/ARTS/blob/master/share/对书的分类.md)
 7. [ruby 多线程的使用](https://github.com/xiao2shiqi/ARTS/blob/master/share/ruby%20多线程的使用.md)
 8. [算法解析：反转单向链表](https://github.com/xiao2shiqi/ARTS/blob/master/share/反转单向链表.md)
+9. [练习算法的几个实用技巧](https://github.com/xiao2shiqi/ARTS/blob/master/share/%E7%BB%83%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9A%84%E5%87%A0%E4%B8%AA%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7.md)
