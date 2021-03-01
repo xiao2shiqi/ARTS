@@ -49,6 +49,7 @@ Introduction: Sharing tips at work
 8. [解决 Chrome 网页翻译无法使用的问题](https://github.com/xiao2shiqi/ARTS/blob/master/tip/解决%20Chrome%20网页翻译无法使用问题.md)
 9. [docker 设置/取消容器自启动](https://github.com/xiao2shiqi/ARTS/blob/master/tip/docker%20设置容器自启动.md)
 10. [SSH 浏览器网络代理设置](https://github.com/xiao2shiqi/ARTS/blob/master/tip/SSH%20%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86%E8%AE%BE%E7%BD%AE.md)
+11. [VSCode snippets 使用心得](https://github.com/xiao2shiqi/ARTS/blob/master/tip/VSCode%20snippets%20%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97.md)
 
 ## Share
 
